@@ -1,4 +1,4 @@
-# cpp-projects
+# cpp-projects mastermind
 # Mastermind Game (C++)
 
 This project is a simple console-based implementation of the Mastermind game written in C++.
